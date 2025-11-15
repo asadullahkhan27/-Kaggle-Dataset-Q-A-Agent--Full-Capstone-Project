@@ -40,7 +40,9 @@ The goal is to automatically analyze datasets and answer user questions regardin
 - Summarize dataset statistics  
 - Visualize key distributions  
 - Implement AI agent for question-answering  
-- Simulate LLM agent integration for enhanced insights  
+- Simulate LLM agent integration for enhanced insights
+
+<img width="571" height="455" alt="Graph-titanic" src="https://github.com/user-attachments/assets/530475a8-a223-42e1-9652-ad286bb283cb" />
 
 ---
 
